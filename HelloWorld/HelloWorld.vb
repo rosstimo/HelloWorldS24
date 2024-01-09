@@ -1,4 +1,4 @@
-﻿Module Module1
+﻿Module HelloWorld
 
     Sub Main()
         Console.WriteLine("Hello, World!")
